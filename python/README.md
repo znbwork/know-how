@@ -12,3 +12,9 @@ OR
 ```bash
 py --version
 ```
+
+## Test
+
+```python
+ print("Hello, Python!")
+ ```
