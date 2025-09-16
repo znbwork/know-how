@@ -13,8 +13,8 @@ OR
 py --version
 ```
 
-## Test
+## TestRun
 
-```python
- print("Hello, Python!")
- ```
+```bat
+python -c "print('Hello, Python!')"
+```
